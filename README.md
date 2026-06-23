@@ -16,4 +16,4 @@ Key Features
 ✔ Fast and Accurate Predictions
 ✔ Early Diagnosis Support
 VIDEO DEMO OF MY PROJECT:https://youtu.be/3McOj9UloIE
-(DEMO VIDEO  ABOUT MY PROJECT)
+
