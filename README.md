@@ -27,7 +27,7 @@ Preprocess Image Data
 Extract Features
 Train Machine Learning Models
 Predict Disease Category
-Display Results through GUI
+Display Results through GUI interface
 
 ----Key Outcomes----
 Classified retinal images as Normal or Glaucoma-Affected.
