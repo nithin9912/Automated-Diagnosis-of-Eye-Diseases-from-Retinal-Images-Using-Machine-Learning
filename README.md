@@ -1,4 +1,4 @@
-Automated Eye Disease Diagnosis Using Machine Learning
+---Automated Eye Disease Diagnosis Using Machine Learning----
 
 Developed a machine learning-based system to detect eye diseases from retinal images.
 Classified retinal images as Normal or Glaucoma-Affected.
