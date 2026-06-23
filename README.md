@@ -1,21 +1,44 @@
 Automated Eye Disease Diagnosis Using Machine Learning
+Overview
 
+---Video Demo---
+🎥 Project Demonstration:
+https://youtu.be/3McOj9UloIE
 
-*Developed a machine learning-based system for the early detection of eye diseases using retinal images.
-*Implemented and trained Decision Tree and Random Forest models for disease classification.
-*Built a user-friendly Tkinter GUI to upload retinal images and display prediction results.
-*Performed data preprocessing, feature extraction, and model evaluation.
-*Classified retinal images as Normal or Glaucoma-affected.
-*Improved screening efficiency by providing fast and automated diagnosis support.
-*Technologies Used: Python, Machine Learning, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter.
-*Achieved accurate predictions to assist in early disease identification and healthcare decision-making.
+Automated Eye Disease Diagnosis Using Machine Learning is a healthcare-focused project that detects eye diseases from retinal images. The system uses machine learning algorithms to classify retinal images as Normal or Glaucoma-Affected, helping support early diagnosis and treatment.
 
-Key Features
-✔ Retinal Image Analysis
-✔ Automated Disease Detection
-✔ Machine Learning-Based Classification
-✔ GUI-Based User Interface
-✔ Fast and Accurate Predictions
-✔ Early Diagnosis Support
-VIDEO DEMO OF MY PROJECT:https://youtu.be/3McOj9UloIE
+---Features---
+Retinal Image Analysis
+Automated Disease Detection
+Machine Learning-Based Classification
+User-Friendly Tkinter GUI
+Fast Prediction Results
+Early Diagnosis Support
+Technologies Used
+Python
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Tkinter
+Machine Learning Models
+Decision Tree
+Used for retinal image classification.
+Provides fast and interpretable predictions.
+Random Forest
+Improves prediction accuracy through ensemble learning.
+Reduces overfitting and enhances model performance.
+Project Workflow
+Upload Retinal Image
+Preprocess Image Data
+Extract Features
+Train Machine Learning Models
+Predict Disease Category
+Display Results through GUI
+----Key Outcomes----
+Classified retinal images as Normal or Glaucoma-Affected.
+Automated the disease detection process.
+Provided quick and accurate prediction results.
+Supported early disease identification.
+
 
