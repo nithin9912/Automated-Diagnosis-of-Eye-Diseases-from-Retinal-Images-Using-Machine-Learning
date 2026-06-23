@@ -1,4 +1,6 @@
 Automated Eye Disease Diagnosis Using Machine Learning
+
+
 *Developed a machine learning-based system for the early detection of eye diseases using retinal images.
 *Implemented and trained Decision Tree and Random Forest models for disease classification.
 *Built a user-friendly Tkinter GUI to upload retinal images and display prediction results.
