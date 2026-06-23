@@ -8,33 +8,27 @@ https://youtu.be/3McOj9UloIE
 Automated Eye Disease Diagnosis Using Machine Learning is a healthcare-focused project that detects eye diseases from retinal images. The system uses machine learning algorithms to classify retinal images as Normal or Glaucoma-Affected, helping support early diagnosis and treatment.
 
 ---Features---
-Retinal Image Analysis
-Automated Disease Detection
-Machine Learning-Based Classification
-User-Friendly Tkinter GUI
-Fast Prediction Results
-Early Diagnosis Support
-Technologies Used
-Python
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Tkinter
-Machine Learning Models
-Decision Tree
-Used for retinal image classification.
-Provides fast and interpretable predictions.
-Random Forest
-Improves prediction accuracy through ensemble learning.
-Reduces overfitting and enhances model performance.
-Project Workflow
+1)Retinal Image Analysis
+2)Automated Disease Detection
+3)Machine Learning-Based Classification
+4)User-Friendly Tkinter GUI
+5)Fast Prediction Results
+6)Early Diagnosis Support
+---Technologies Used---
+1)Python
+2)Scikit-learn
+3)Pandas and numpy
+4)Random forest and decision tree
+5)GUI interface
+
+---Project Workflow---
 Upload Retinal Image
 Preprocess Image Data
 Extract Features
 Train Machine Learning Models
 Predict Disease Category
 Display Results through GUI
+
 ----Key Outcomes----
 Classified retinal images as Normal or Glaucoma-Affected.
 Automated the disease detection process.
